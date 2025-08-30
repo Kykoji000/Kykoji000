@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,php,html,css)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,laravel,nextjs,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,laravel,nextjs,react)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
