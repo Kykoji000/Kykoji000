@@ -11,14 +11,19 @@
 
 # 🛠 Projects
 
+![status](https://img.shields.io/badge/status-in_progress-yellow) 
+
+
 ### 【どこまでも伸びソー】日々の努力でソーセージが伸びるライフログ系アプリ 🌭
+
+
 [![バックエンド](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-backend&theme=tokyonight)](https://github.com/Kykoji000/lifelog-backend)
 [![フロントエンド](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-frontend&theme=tokyonight)](https://github.com/Kykoji000/lifelog-frontend)
 
 
 - 日々の努力を可視化して「ソーセージが伸びる」ライフログアプリ  
 - バックエンド: Laravel / フロントエンド: Next.js  
-- JWT認証やデータベース設計、API連携を実装  
+- JWT認証やデータベース設計、API連携を実装予定  
 - ユニークな可視化アルゴリズムで、努力の結果をゲーム感覚で表示    
 
 ---
