@@ -8,8 +8,14 @@
 ---
 
 # 🛠 Projects
+### ※作成中
+## 【どこまでも伸びソー】日々の努力でソーセージが伸びるライフログ系アプリ🌭
 
-追加予定
+[![どこまでも伸びソー](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-backend&theme=tokyonight)](https://github.com/Kykoji000/lifelog-backend)[![どこまでも伸びソー](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-frontend&theme=tokyonight)](https://github.com/Kykoji000/lifelog-frontend)
+
+#### 日々の努力を記録するとソーセージが伸びるライフログアプリ。  
+#### バックエンド: Laravel / フロント: Next.js
+
 
 ---
 
