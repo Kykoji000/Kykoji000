@@ -5,7 +5,15 @@
 
 - 高校生エンジニアとしてアプリ開発を中心に学習中  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kykoji000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kykoji000&layout=compact)  
+<div>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kykoji000&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kykoji000&layout=compact&theme=tokyonight)
+
+</div>
+
+
+
+
 
 ---
 
