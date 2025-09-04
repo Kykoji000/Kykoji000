@@ -26,8 +26,7 @@
 ### 【どこまでも伸びソー】日々の努力でソーセージが伸びるライフログ系アプリ 🌭
 
 
-[![バックエンド](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-backend&theme=tokyonight)](https://github.com/Kykoji000/lifelog-backend)
-[![フロントエンド](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-frontend&theme=tokyonight)](https://github.com/Kykoji000/lifelog-frontend)
+[![リポジトリ](https://github-readme-stats.vercel.app/api/pin/?username=Kykoji000&repo=lifelog-app&theme=tokyonight)](https://github.com/Kykoji000/lifelog-app)
 
 
 - 日々の努力を可視化して「ソーセージが伸びる」ライフログアプリ  
